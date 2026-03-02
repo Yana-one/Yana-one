@@ -1,21 +1,26 @@
-## 👋 Hi, I'm Chaeyeon
+## Hi, I'm Chaeyeon 👋
 
-🎓 Computer Science undergraduate (Senior)  
-🤖 Interested in AI / Machine Learning  
-💻 Mainly using Python
+🎓 Senior Computer Science Student at Gachon University  
+🤖 Building AI-powered applications  
+🚀 Interested in LLM-based services & Applied ML  
 
-### 🔧 Tech Stack
-- Languages: Python, Java (basic)
-- AI / ML: scikit-learn, numpy, pandas
-- Tools: Git, GitHub, Jupyter Notebook
+---
 
-### 📊 AI Experience
-- Machine learning assignments and mini projects
-- Implemented basic regression & classification models
-- Data preprocessing and simple model evaluation
-- Interested in applied AI and data-driven projects
+## 🛠 Tech Stack
+Languages: Python | Java  
+Backend: FastAPI | Django  
+AI / ML: scikit-learn | pandas | numpy  
+Database: MySQL  
+Tools: Git | Docker | Jupyter  
 
-### 🤝 Collaboration
-- Familiar with GitHub-based collaboration
-- Experience with commits, branches, pull requests
-- Comfortable learning and adapting roles in team projects
+---
+
+## 📌 Selected Projects
+- AI Interview Assistant (LLM-based evaluation)
+- AI Kanban Productivity System
+- OpenCV mini experiments
+
+---
+
+## 📈 Focus
+Bridging AI models with production-ready backend systems.
