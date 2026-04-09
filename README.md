@@ -1,7 +1,7 @@
 ## Hi, I'm Chaeyeon 👋
 
 🎓 Senior Computer Science Student at Gachon University  
-🤖 Interested in Computer Vision, Robotics, and AI-based systems  
+🤖 Interested in Computer Vision and AI-based systems  
 🚀 Currently building projects with Python, FastAPI, and OpenCV
 
 ---
@@ -19,6 +19,3 @@
 - **AI Interview Assistant** — LLM-based interview evaluation system
 - **AI Kanban System** — task management system with AI-assisted features
 - **Computer Vision Projects** — webcam processing and gesture recognition with OpenCV
-
-## 🎯 Goal
-To build AI systems that connect models to real-world applications.
